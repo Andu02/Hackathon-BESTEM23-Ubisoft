@@ -4,4 +4,14 @@ Made in **Unity** within the BEST Engineering Marathon, a 24-hour hackathon in B
 
 # Preview
 
-![1](https://github.com/Andu02/Hackathon-BESTEM23-Ubisoft/assets/133790348/ecd67422-857b-4f8e-b7cf-480adc394109)
+* Main Menu
+  
+![3](https://github.com/Andu02/Hackathon-BESTEM23-Ubisoft/assets/133790348/a99e7d75-56e0-4712-a81a-ca14e14bdffb)
+
+* Gameplay
+
+![1](https://github.com/Andu02/Hackathon-BESTEM23-Ubisoft/assets/133790348/7527dd60-8a9c-4bb3-b0c0-0f2426c0bff7)
+
+![2](https://github.com/Andu02/Hackathon-BESTEM23-Ubisoft/assets/133790348/63e69cc2-7d6e-4824-8102-8b5259c49e86)
+
+
